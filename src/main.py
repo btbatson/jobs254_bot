@@ -18,10 +18,10 @@ TWEET_IMG_LENGTH = 23
 TWEET_NET_LENGTH = TWEET_MAX_LENGTH - TWEET_URL_LENGTH - TWEET_IMG_LENGTH
 
 # Twitter Account Keys 
-CONSUMER_KEY = 'consumer_key'
-CONSUMER_SECRET = 'consumer_secret'
-ACCESS_KEY = 'access_key'
-ACCESS_SECRET = 'access_secret'
+CONSUMER_KEY = 'yKL857880t8dcqAX7eLEDiz8w'
+CONSUMER_SECRET = 'C7Mj528JQ7I9aIxjojqqOKdtm0wGY05TgaG4i7kUAKSYk10kPa'
+ACCESS_KEY = '982599053199532033-anq4h5dHZGJWJ4sWvzBknP5ryowQkNO'
+ACCESS_SECRET = 'cnyrhv81KxzZz87BHdx57hdgWVdPnhmVkHRTkUxUXnZH5'
 
 def html_doc(entry):
         if hasattr(entry, 'content'):
