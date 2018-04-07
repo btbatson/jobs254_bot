@@ -1,6 +1,6 @@
-# feedr: RSS Bot for Twitter!
+# Jobs254: RSS Bot for Twitter!
 
-feedr will read RSS feeds that you specify and then it will determine if there's new content since last checked. If there is, then it will publish a post on your Twitter account on your behalf for each new content update.
+Jobs254 will read RSS feeds that you specify and then it will determine if there's new content since last checked. If there is, then it will publish a post on your Twitter account on your behalf for each new content update.
 
 As is, feedr will add the following information to a tweet:
 * Title of the new content entry
@@ -23,4 +23,4 @@ Here's [an example of feedr in action](https://twitter.com/ValveTime/status/5529
 
 Instructions for getting started with feedr can be found on [the Wiki](https://www.github.com/housed/feedr/wiki/Getting-Started-with-feedr).
 
-Follow me on Twitter [@TheDylanHouse](https://www.twitter.com/TheDylanHouse).
+Follow me on Twitter [@btbatson](https://twitter.com/BTBATSON).
